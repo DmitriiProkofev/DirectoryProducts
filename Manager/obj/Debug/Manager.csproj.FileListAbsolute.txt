@@ -1,0 +1,17 @@
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Manager.dll
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Manager.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Core.dll
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Service.dll
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Data.dll
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Core.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Service.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Service.dll.config
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Data.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Data.dll.config
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\obj\Debug\Manager.dll
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\obj\Debug\Manager.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\Manager\bin\Debug\Core.dll.config

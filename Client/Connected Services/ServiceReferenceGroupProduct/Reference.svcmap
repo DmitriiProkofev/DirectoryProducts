@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="06ab7cf2-3ef1-4350-96d2-1b402f33a07c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/Service/GroupProductService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="8361cb44-a0e1-417f-a865-e443702fcb6a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/Service/GroupProductService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="b154a6f8-6ffe-4a3c-8555-982a4cdaf5b1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/Service/GroupProductService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="52226ac2-9527-4da4-aaa4-81f999273585" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/Service/GroupProductService/mex" />
+    <MetadataFile FileName="Core.Domain.xsd" MetadataType="Schema" ID="53a8b5b4-275f-42ac-a176-74789e6df1a1" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/Service/GroupProductService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

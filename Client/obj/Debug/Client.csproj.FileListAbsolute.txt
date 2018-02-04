@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\Core.dll
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\Core.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\Core.dll.config
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\Client.exe.config
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\Client.exe
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\bin\Debug\Client.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\obj\Debug\Client.exe
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\obj\Debug\Client.pdb
+C:\Users\Дмитрий\source\DirectoryProducts\C;ient\obj\Debug\Client.Views.DirectoryProductsView.resources
